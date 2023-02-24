@@ -8,6 +8,7 @@
  I like to write clear codes and bring to life crazy ideas 💡.
 
  Here, on my github I will describe common and interesting project that I created already. So you can read it, and I hope it will helpful for you!
+ </br> And go get to watch my projects, you will enjoy it. It is only cople months
 
 ---
 
