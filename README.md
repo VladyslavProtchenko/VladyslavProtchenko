@@ -73,10 +73,10 @@ Thanks for your time and be happy! 😉
 </br>see you 🙌
 </br>
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies -->
 ![](https://github-profile-trophy.vercel.app/?username=VladyslavProtchenko&theme=flat&no-frame=true&no-bg=false&margin-w=4)
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats: -->
 ![](https://github-readme-stats.vercel.app/api?username=VladyslavProtchenko&theme=buefy&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
 
