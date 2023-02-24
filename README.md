@@ -2,7 +2,7 @@
 
 **`Junior React Developer`**
 
- TeamLid in junior body 🤫 -- 🔭 I’m currently working on it</br>
+ Team Leader in junior body 🤫 -- 🔭 I’m currently working on it</br>
  
  I like to write clear codes and bring to life crazy ideas 💡.
 
