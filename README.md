@@ -91,6 +91,7 @@
 <p>
    Use react, RTQ stack, work with async queries, with json data, render pages. Tailwind styling.
  <br/>
+ <br/>
  without-redux:
  <br/>
    [Click here!]1[](https://github.com/VladyslavProtchenko/star-wars)
@@ -114,7 +115,7 @@
 <h3>Render posts</h3>
 <p>Page with rendered posts in clear javascript, using just JS :)</p>
 <br/>
-   [Click here][https://github.com/VladyslavProtchenko/RENDER-POSTS]
+   https://github.com/VladyslavProtchenko/RENDER-POSTS
 </br>
 
 </br>
