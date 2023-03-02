@@ -68,6 +68,55 @@
 </br>
 </details>
 
+<details>
+ <summary><h3 style="display: flex;"><code>Projects</code> <img alt="Java" width="20px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+
+</h3></summary>
+<p>
+   I had strong practice with mentor and couple interesting test tasks from different companies 🦾!</br></br>
+</p>
+<h3>Online-Shop react app</h3>
+<code>React/redux-toolkit app with google/firebase auth</code>
+<p>
+   Use react, redux-toolkit stack, outentication with firebase with google and mail. Tailwind styling.
+ <br/>
+   [Click here!](https://github.com/VladyslavProtchenko/OnlineShop-google-auth)
+</p>
+</br>
+</br>
+
+<h3>Star Wars app</h3>
+<code>React-redux app about star wars movie</code>
+<p>
+   Use react, RTQ stack, work with async queries, with json data, render pages. Tailwind styling.
+ <br/>
+ without-redux:
+   [Click here!](https://github.com/VladyslavProtchenko/star-wars)
+  redux:
+   [Click here!](https://github.com/VladyslavProtchenko/REDUX-WARS)
+</p>
+</br>
+
+<h3>MERN</h3>
+<code>Frontend: React-redux, Backend:Node, express, mongoDB </code>
+<p>
+   MERN, Mongo-Express-React-Node, RTQ stack, I created server on Express with node, hashData, JWT access, refresh tokens, middlewares. Frontend simple pages about authentification.
+ <br/>
+ without-redux:
+   [Click here!](https://github.com/VladyslavProtchenko/React-JS-Node-JS-Authentification)
+</p>
+</br>
+
+<h3>Render posts</h3>
+<p>Page with rendered posts in clear javascript, using just JS :)</p>
+<br/>
+   [Click here!](https://github.com/VladyslavProtchenko/RENDER-POSTS)
+</br>
+
+</br>
+</details>
+
 <br /> 
 Thanks for your time and be happy! 😉
 </br>see you 🙌
