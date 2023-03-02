@@ -69,7 +69,7 @@
 </details>
 
 <details>
- <summary><h3 style="display: flex;"><code>Projects</code> <img alt="Java" width="20px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+ <summary><h3 style="display: flex;"><code>Projects</code> <img alt="Java" width="20px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 
 </h3></summary>
@@ -81,7 +81,7 @@
 <p>
    Use react, redux-toolkit stack, outentication with firebase with google and mail. Tailwind styling.
  <br/>
-   [Click here!](https://github.com/VladyslavProtchenko/OnlineShop-google-auth)
+   [Click here!]![](https://github.com/VladyslavProtchenko/OnlineShop-google-auth)
 </p>
 </br>
 </br>
@@ -92,9 +92,12 @@
    Use react, RTQ stack, work with async queries, with json data, render pages. Tailwind styling.
  <br/>
  without-redux:
-   [Click here!](https://github.com/VladyslavProtchenko/star-wars)
+ <br/>
+   [Click here!]1[](https://github.com/VladyslavProtchenko/star-wars)
+ <br/>
   redux:
-   [Click here!](https://github.com/VladyslavProtchenko/REDUX-WARS)
+ <br/>
+   [Click here!]![](https://github.com/VladyslavProtchenko/REDUX-WARS)
 </p>
 </br>
 
@@ -103,15 +106,15 @@
 <p>
    MERN, Mongo-Express-React-Node, RTQ stack, I created server on Express with node, hashData, JWT access, refresh tokens, middlewares. Frontend simple pages about authentification.
  <br/>
- without-redux:
-   [Click here!](https://github.com/VladyslavProtchenko/React-JS-Node-JS-Authentification)
+ <br/>
+   [Click here!]![](https://github.com/VladyslavProtchenko/React-JS-Node-JS-Authentification)
 </p>
 </br>
 
 <h3>Render posts</h3>
 <p>Page with rendered posts in clear javascript, using just JS :)</p>
 <br/>
-   [Click here!](https://github.com/VladyslavProtchenko/RENDER-POSTS)
+   [Click here!]![](https://github.com/VladyslavProtchenko/RENDER-POSTS)
 </br>
 
 </br>
