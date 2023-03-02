@@ -114,7 +114,7 @@
 <h3>Render posts</h3>
 <p>Page with rendered posts in clear javascript, using just JS :)</p>
 <br/>
-   [Click here!]![](https://github.com/VladyslavProtchenko/RENDER-POSTS)
+   [Click here](https://github.com/VladyslavProtchenko/RENDER-POSTS)
 </br>
 
 </br>
@@ -124,24 +124,6 @@
 Thanks for your time and be happy! 😉
 </br>see you 🙌
 </br>
-</br>
-</br>
-
----
-
-#### GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VladyslavProtchenko&theme=flat&no-frame=true&no-bg=false&margin-w=4)
-
-<!-- # 📊 GitHub Stats: -->
-![](https://github-readme-stats.vercel.app/api?username=VladyslavProtchenko&theme=buefy&hide_border=true&include_all_commits=false&count_private=false)<br/>
-
-
-#### 😂 Random Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=VladyslavProtchenko&icon=9&color=12)]()
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/VladyslavSnowflake) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vladyslav25cm/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vladyslav-protchenko-05844b256/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@vladyslav25cm) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@user-ut7ig4zz4j) 
 
 
 
