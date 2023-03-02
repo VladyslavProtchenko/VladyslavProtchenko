@@ -81,7 +81,7 @@
 <p>
    Use react, redux-toolkit stack, outentication with firebase with google and mail. Tailwind styling.
  <br/>
-   [Click here!]![](https://github.com/VladyslavProtchenko/OnlineShop-google-auth)
+   https://github.com/VladyslavProtchenko/OnlineShop-google-auth
 </p>
 </br>
 </br>
@@ -94,11 +94,11 @@
  <br/>
  without-redux:
  <br/>
-   [Click here!]1[](https://github.com/VladyslavProtchenko/star-wars)
+   https://github.com/VladyslavProtchenko/star-wars
  <br/>
   redux:
  <br/>
-   [Click here!]![](https://github.com/VladyslavProtchenko/REDUX-WARS)
+   https://github.com/VladyslavProtchenko/REDUX-WARS
 </p>
 </br>
 
@@ -108,7 +108,7 @@
    MERN, Mongo-Express-React-Node, RTQ stack, I created server on Express with node, hashData, JWT access, refresh tokens, middlewares. Frontend simple pages about authentification.
  <br/>
  <br/>
-   [Click here!]![](https://github.com/VladyslavProtchenko/React-JS-Node-JS-Authentification)
+   https://github.com/VladyslavProtchenko/React-JS-Node-JS-Authentification
 </p>
 </br>
 
