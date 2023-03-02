@@ -114,7 +114,7 @@
 <h3>Render posts</h3>
 <p>Page with rendered posts in clear javascript, using just JS :)</p>
 <br/>
-   [Click here](https://github.com/VladyslavProtchenko/RENDER-POSTS)
+   [Click here][https://github.com/VladyslavProtchenko/RENDER-POSTS]
 </br>
 
 </br>
@@ -124,11 +124,3 @@
 Thanks for your time and be happy! 😉
 </br>see you 🙌
 </br>
-
-
-
-
-
-
-
-
