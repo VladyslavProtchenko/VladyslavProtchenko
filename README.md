@@ -84,8 +84,6 @@
    https://github.com/VladyslavProtchenko/OnlineShop-google-auth
 </p>
 </br>
-</br>
-
 <h3>Star Wars app</h3>
 <code>React-redux app about star wars movie</code>
 <p>
