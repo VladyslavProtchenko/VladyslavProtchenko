@@ -7,7 +7,7 @@ Senior engineer in trainee body 🤫 -- 🔭 I’m currently working on it</br><
 ##### I don't ask stupid questions, only smart questions 💡
 
 
-So here, on my github I will describe common and most interesting project that I created already. So you can watch it, and I hope it will helpful for you!</br> It is only couple months and I already can find answer to any questions on my own 🦾 <br/>
+So here, on my github I will describe common and most interesting project that I created already. So you can watch it, and I hope it will helpful for you!</br> It is only start and I already can find answer to any questions on my own 🦾 <br/>
 
 ---
 
