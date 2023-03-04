@@ -1,12 +1,11 @@
 # 👀 Hi, I'm Vladyslav 👋
 **`React engineer`**
-<br/><br/>
+<br/>
 
-Senior in trainee body 🤫 -- 🔭 I’m currently working on it</br><br/>
+Senior engineer in trainee body 🤫 -- 🔭 I’m currently working on it</br><br/>
 
 
-
-##### I don't ask bad questions, only smart questions 💡
+##### I don't ask stupid questions, only smart questions 💡
 
 I can find answer any question on my own 🦾 <br/>
 So here, on my github I will describe common and interesting project that I created already. So you can read it, and I hope it will helpful for you!</br> And go get to watch my projects, you will enjoy it. It is  only couple months
