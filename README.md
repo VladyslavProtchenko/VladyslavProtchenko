@@ -15,7 +15,7 @@ So here, on my github I will describe common and most interesting project that I
 
 
 <details>
- <summary><h3 style="display: flex;"><code>Frontend =></code><img alt="Java" width="20px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></h3></summary>
+ <summary><h3 style="display: flex;"><code>Front-end!</code><img alt="Java" width="20px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></h3></summary>
  
 <p>Main set React-Redux</br>Fetching, and render data, create apps.</br>Had practice with:</br>
 <code>react-redux, styled-components, TailWind, socket.io</code></p></br>
@@ -40,7 +40,7 @@ So here, on my github I will describe common and most interesting project that I
 
 
 <details>
- <summary><h3 style="display: flex;"><code>Backend!</code><img alt="Java" width="20px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></h3></summary>
+ <summary><h3 style="display: flex;"><code>Back-end!</code><img alt="Java" width="20px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></h3></summary>
  
  
 <p>I have experience in creating Rest-API and full CRUD functionality with Node, MongoDB, some knowlenge about mySQL</br></br></p>
@@ -72,7 +72,7 @@ So here, on my github I will describe common and most interesting project that I
 
 
 <details>
- <summary><h3 style="display: flex;"><code>Projects</code><img alt="Java" width="20px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></h3></summary>
+ <summary><h3 style="display: flex;"><code>Projects!</code><img alt="Java" width="20px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></h3></summary>
 
  <p>I had strong practice with mentor and couple interesting test tasks from different companies 🦾!</p><br/><br/><br/>
 
