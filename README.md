@@ -4,7 +4,8 @@
 
  Team Leader in junior body 🤫 -- 🔭 I’m currently working on it</br>
  
- Easily find answers to questions on my own🦾 I don't ask stupid question, I ask smart questions💡
+ ### I don't ask stupid question, I ask smart questions 💡
+ ###### I can find answer any question on my own🦾 
 
  Here, on my github I will describe common and interesting project that I created already. So you can read it, and I hope it will helpful for you!
  </br> And go get to watch my projects, you will enjoy it. It is  only couple months
