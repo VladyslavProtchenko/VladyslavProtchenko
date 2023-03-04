@@ -2,14 +2,17 @@
 
 **`React engineer`**
 <br/>
- ##### I don't ask stupid questions, only smart questions 💡
- ###### and I can find answer any question on my own🦾 <br.>
+
+<br/>
+ 
  
  Team Leader in junior body 🤫 -- 🔭 I’m currently working on it</br>
  
+<br/>
+ ##### I don't ask bad questions, only smart questions 💡
+ ###### and I can find answer any question on my own 🦾
 
-
- Here, on my github I will describe common and interesting project that I created already. So you can read it, and I hope it will helpful for you!
+ So here, on my github I will describe common and interesting project that I created already. So you can read it, and I hope it will helpful for you!
  </br> And go get to watch my projects, you will enjoy it. It is  only couple months
 
 ---
