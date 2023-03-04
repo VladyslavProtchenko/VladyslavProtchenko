@@ -1,9 +1,9 @@
 # 👀 Hi, I'm Vladyslav 👋
 
-**`Junior React Developer`**
+**`React engineer`**
 <br/>
- ##### I don't ask stupid question, I ask smart questions 💡
- ###### I can find answer any question on my own🦾 <br.>
+ ##### I don't ask stupid questions, only smart questions 💡
+ ###### and I can find answer any question on my own🦾 <br.>
  
  Team Leader in junior body 🤫 -- 🔭 I’m currently working on it</br>
  
