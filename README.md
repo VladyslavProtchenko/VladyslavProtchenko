@@ -4,7 +4,7 @@
 
  Team Leader in junior body 🤫 -- 🔭 I’m currently working on it</br>
  
- I like to write clear codes and bring to life crazy ideas 💡.
+ Easily find answers to questions on my own🦾 I don't ask stupid question, I ask smart questions💡
 
  Here, on my github I will describe common and interesting project that I created already. So you can read it, and I hope it will helpful for you!
  </br> And go get to watch my projects, you will enjoy it. It is  only couple months
@@ -14,7 +14,12 @@
 ### 🛠 Languages and Tools
 
 <details>
- <summary><h3 style="display: flex;"><code>Frontend =></code> <img alt="Java" width="20px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+ <summary>
+  <h3 style="display: flex;">
+   
+    <code>Frontend =></code> 
+   
+      <img alt="Java" width="20px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 
 </h3></summary>
@@ -27,6 +32,7 @@
 </br>
 </p>
 <h3>React</h3>
+
 <p>React-router, reactHooks, Context, LocalStorage, tailwind styles app: todos, posts, async fetches</br>Pagination </br>Authentication</br>validation forms</br>animations</p>
 </br>
 </br>
@@ -40,14 +46,17 @@
 
 </details>
 <details>
- <summary><h3 style="display: flex;"><code>Backend!</code> <img alt="Java" width="20px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+ <summary>
+  <h3 style="display: flex;">
+   
+   <code>Backend!</code> 
+   
+       <img alt="Java" width="20px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+       <img width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 
 </h3></summary>
 <p>
     I have experience in creating Rest-API and full CRUD functionality with Node, MongoDB, some knowlenge about mySQL</br></br>
-    
-    
 </p>
 <h3>JavaScript</h3>
 <code>Good experience work with collections, arrays/object methods.</code>
@@ -69,13 +78,23 @@
 </details>
 
 <details>
- <summary><h3 style="display: flex;"><code>Projects</code> <img alt="Java" width="20px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+ <summary>
+   <h3 style="display: flex;">
+      
+    <code>Projects</code>
+    
+    <img alt="Java" width="20px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+   <img width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 
-</h3></summary>
+   </h3>
+</summary>
 <p>
    I had strong practice with mentor and couple interesting test tasks from different companies 🦾!</br></br>
 </p>
+<br/>
+
+
+
 <h3>Online-Shop react app</h3>
 <code>React/redux-toolkit app with google/firebase auth</code>
 <p>
@@ -84,6 +103,16 @@
    https://github.com/VladyslavProtchenko/OnlineShop-google-auth
 </p>
 </br>
+
+<h3>Online-Shop React Material-UI</h3>
+<code>React/redux-toolkit app, Material-UI style</code>
+<p>
+   Use react, redux-toolkit query stack, Paggination/filters on Material-UI and some Tailwind styles.
+ <br/>
+   [https://github.com/VladyslavProtchenko/OnlineShop-google-auth](смотри)
+</p>
+</br>
+
 <h3>Star Wars app</h3>
 <code>React-redux app about star wars movie</code>
 <p>
