@@ -45,16 +45,9 @@
 </br>
 
 </details>
-<details>
- <summary>
-  <h3 style="display: flex;">
-   
-   <code>Backend!</code> 
-   
-       <img alt="Java" width="20px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-       <img width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 
-</h3></summary>
+<details>
+ <summary><h3 style="display: flex;"><code>Backend!</code><img alt="Java" width="20px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></h3></summary>
 <p>
     I have experience in creating Rest-API and full CRUD functionality with Node, MongoDB, some knowlenge about mySQL</br></br>
 </p>
@@ -95,7 +88,7 @@
 
 
 
-<h3>Online-Shop react app</h3>
+<h3>Кeact app google-auth(firebase)</h3>
 <code>React/redux-toolkit app with google/firebase auth</code>
 <p>
    Use react, redux-toolkit stack, outentication with firebase with google and mail. Tailwind styling.
@@ -104,12 +97,12 @@
 </p>
 </br>
 
-<h3>Online-Shop React Material-UI</h3>
+<h3>React online-shop Material-UI</h3>
 <code>React/redux-toolkit app, Material-UI style</code>
 <p>
    Use react, redux-toolkit query stack, Paggination/filters on Material-UI and some Tailwind styles.
  <br/>
-   [https://github.com/VladyslavProtchenko/OnlineShop-google-auth](смотри)
+   https://github.com/VladyslavProtchenko/OnlineShop-google-auth
 </p>
 </br>
 
