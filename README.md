@@ -10,7 +10,10 @@ Senior engineer in trainee body 🤫 -- 🔭 I’m currently working on it</br><
 So here, on my github I will describe common and most interesting project that I created already. So you can watch it, and I hope it will helpful for you!</br> It is only start and I already can find answer to any questions on my own 🦾 <br/>
 
 Couple examples: <br/>
-https://react-app-google-auth.vercel.app/
+https://flowers-slider.vercel.app/<br/>
+https://react-app-google-auth.vercel.app/ <br/>
+https://dark-slider.vercel.app/ <br/>
+
 <br/>
 
 ### 🛠 Languages and Tools
