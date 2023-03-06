@@ -11,7 +11,7 @@ So here, on my github I will describe common and most interesting project that I
 
 **
 
----
+<hr />
 
 ### 🛠 Languages and Tools
 
