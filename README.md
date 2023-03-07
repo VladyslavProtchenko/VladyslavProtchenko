@@ -13,6 +13,7 @@ Couple examples: <br/>
 https://flowers-slider.vercel.app/<br/>
 https://react-app-google-auth.vercel.app/ <br/>
 https://dark-slider.vercel.app/ <br/>
+Game: https://game-sniper.vercel.app/
 
 <br/>
 
