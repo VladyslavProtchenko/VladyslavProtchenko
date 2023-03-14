@@ -10,7 +10,10 @@ Senior engineer in trainee body 🤫 -- 🔭 I’m currently working on it</br><
 So here, on my github I will describe common and most interesting project that I created already. So you can watch it, and I hope it will helpful for you!</br> It is only start and I already can find answer to any questions on my own 🦾 <br/>
 
 Couple examples: <br/>
+Adaptive ap, with sliders and form: https://fit-fit.vercel.app/ <br/>
+
 Online exchange: https://swap-money.vercel.app/<br/>
+
 https://flowers-slider.vercel.app/<br/>
 https://react-app-google-auth.vercel.app/ <br/>
 https://dark-slider.vercel.app/ <br/>
