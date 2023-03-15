@@ -8,6 +8,7 @@ Senior engineer in trainee body 🤫 -- 🔭 I’m currently working on it</br><
 
 
 So here, on my github I will describe common and most interesting project that I created already. So you can watch it, and I hope it will helpful for you!</br> It is only start and I already can find answer to any questions on my own 🦾 <br/>
+<br/>
 
 Couple examples: <br/>
 https://fit-fit.vercel.app/ <br/>
@@ -23,7 +24,7 @@ ___
  <p>I had strong practice with mentor and couple interesting test tasks from different companies 🦾!</p>
 
  <h3>React app fitnessGym</h3>
-<code>React/redux-toolkit tailwind styles</code>
+###<code>React/redux-toolkit tailwind styles</code>
 <p>React app with custom sliders, validation form, adaptive layout: <br/> 
 https://fit-fit.vercel.app/
 </p>
