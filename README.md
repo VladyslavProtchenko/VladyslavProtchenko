@@ -25,7 +25,7 @@ ___
 
 
  <h3>React app fitnessGym</h3>
-<h4><code>React/redux-toolkit tailwind styles</code></h4>
+<h5><code>React/redux-toolkit tailwind styles</code></h5>
 
 <p>React app with custom sliders, validation form, adaptive layout: <br/> 
 https://fit-fit.vercel.app/
@@ -33,7 +33,7 @@ https://fit-fit.vercel.app/
 
 
 <h3>React app google-auth(firebase)</h3>
-<h4><code>React/redux-toolkit app with google/firebase auth</code></h4>
+<h5><code>React/redux-toolkit app with google/firebase auth</code></h5>
 
 <p>Use react, redux-toolkit stack, outentication with firebase with google and mail. Tailwind styling.
 <br/>https://github.com/VladyslavProtchenko/OnlineShop-google-auth</p>
@@ -69,7 +69,7 @@ redux: https://github.com/VladyslavProtchenko/REDUX-WARS</p>
 
 <h3>Render posts</h3>
 <p>Page with rendered posts in clear javascript, using just JS :) <br/>https://github.com/VladyslavProtchenko/RENDER-POSTS</p>
-_______________________________________________________________________________
+________________________________________________________________________________________________________________________________________________________
 
 
 <h1 style="display: flex;"><code>Front-end!</code><img alt="Java" width="20px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></h1>
@@ -90,7 +90,7 @@ _______________________________________________________________________________
 
 <h3>HTML,CSS</h3>
 <p>Standart skills about this, query breackpoints, validations, animations, adaptive layouts,understanding of HTML semantic.</p>
-______________________________________________________________________________
+__________________________________________________________________________________________________________________________________________________________
 
 
 <h3 style="display: flex;"><code>Back-end!</code><img alt="Java" width="20px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></h3></summary>
@@ -110,8 +110,7 @@ ______________________________________________________________________________
 
 <h3>MongoDB, MySql</h3>
 <p>Some practice with structure and projecting collections</p>
-______________________________________________________________________________
-
+__________________________________________________________________________________________________________________________________________________________
 Thanks for your time and be happy! 😉
 </br>see you 🙌
 </br>
