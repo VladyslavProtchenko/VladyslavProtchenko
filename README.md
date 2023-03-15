@@ -9,14 +9,13 @@ Senior engineer in trainee body 🤫 -- 🔭 I’m currently working on it</br><
 
 So here, on my github I will describe common and most interesting project that I created already. So you can watch it, and I hope it will helpful for you!</br> It is only start and I already can find answer to any questions on my own 🦾 <br/>
 
-Couple examples: <br/><br/>
+Couple examples: <br/>
  
-https://fit-fit.vercel.app/ <br/>
-
+https://fit-fit.vercel.app/
 https://swap-money.vercel.app/<br/>
 
 https://flowers-slider.vercel.app/<br/>
-https://react-app-google-auth.vercel.app/ <br/>
+https://react-app-google-auth.vercel.app/
 
 
 <br/>
@@ -49,7 +48,7 @@ https://react-app-google-auth.vercel.app/ <br/>
 
 
 
-<details>
+
  <summary><h3 style="display: flex;"><code>Back-end!</code><img alt="Java" width="20px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></h3></summary>
  
  
@@ -74,7 +73,7 @@ https://react-app-google-auth.vercel.app/ <br/>
 
 <h3>MySql </h3>
 <p>Some practice with structure and proecting collections</p></br></br>
-</details>
+
 
 
 
