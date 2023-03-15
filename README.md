@@ -25,51 +25,48 @@ ___
 
 
  <h3>React app fitnessGym</h3>
-<h5><code>React/redux-toolkit tailwind styles</code></h5>
-
+<code>React/redux-toolkit tailwind styles</code>
 <p>React app with custom sliders, validation form, adaptive layout: <br/> 
 https://fit-fit.vercel.app/
-</p>
+</p><br/>
 
 
 <h3>React app google-auth(firebase)</h3>
-<h5><code>React/redux-toolkit app with google/firebase auth</code></h5>
-
+<code>React/redux-toolkit app with google/firebase auth</code>
 <p>Use react, redux-toolkit stack, outentication with firebase with google and mail. Tailwind styling.
-<br/>https://github.com/VladyslavProtchenko/OnlineShop-google-auth</p>
+<br/>https://github.com/VladyslavProtchenko/OnlineShop-google-auth</p><br/>
 
 
 
 
 <h3>React online-shop Material-UI</h3>
-<h4><code>React/redux-toolkit app, Material-UI style</code></h4>
-
+<code>React/redux-toolkit app, Material-UI style</code>
 <p>Use react, redux-toolkit query stack, Paggination/filters on Material-UI and some Tailwind styles.
-<br/>https://github.com/VladyslavProtchenko/OnlineShop-google-auth</p>
+<br/>https://github.com/VladyslavProtchenko/OnlineShop-google-auth</p><br/>
 
 
 
 
 <h3>Star Wars app</h3>
-<h4><code>React-redux app about star wars movie</code></h4>
+<code>React-redux app about star wars movie</code>
 <p>Use react, RTQ stack, work with async queries, with json data, render pages. Tailwind styling.<br/>
 without-redux: https://github.com/VladyslavProtchenko/star-wars<br/>
-redux: https://github.com/VladyslavProtchenko/REDUX-WARS</p>
+redux: https://github.com/VladyslavProtchenko/REDUX-WARS</p><br/>
 
 
 
 
 <h3>MERN</h3>
-<h4><code>Frontend: React-redux, Backend:Node, express, mongoDB </code></h4>
+<code>Frontend: React-redux, Backend:Node, express, mongoDB </code>
 <p>MERN, Mongo-Express-React-Node, RTQ stack, I created server on Express with node, hashData, JWT access, refresh tokens, middlewares. Frontend simple pages about authentification.
-<br/>https://github.com/VladyslavProtchenko/React-JS-Node-JS-Authentification</p>
+<br/>https://github.com/VladyslavProtchenko/React-JS-Node-JS-Authentification</p><br/>
 
 
 
 
 <h3>Render posts</h3>
 <p>Page with rendered posts in clear javascript, using just JS :) <br/>https://github.com/VladyslavProtchenko/RENDER-POSTS</p>
-________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________
 
 
 <h1 style="display: flex;"><code>Front-end!</code><img alt="Java" width="20px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></h1>
@@ -90,7 +87,7 @@ ________________________________________________________________________________
 
 <h3>HTML,CSS</h3>
 <p>Standart skills about this, query breackpoints, validations, animations, adaptive layouts,understanding of HTML semantic.</p>
-__________________________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________
 
 
 <h3 style="display: flex;"><code>Back-end!</code><img alt="Java" width="20px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></h3></summary>
@@ -110,7 +107,8 @@ ________________________________________________________________________________
 
 <h3>MongoDB, MySql</h3>
 <p>Some practice with structure and projecting collections</p>
-__________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________
+
 Thanks for your time and be happy! 😉
 </br>see you 🙌
 </br>
