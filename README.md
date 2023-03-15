@@ -11,8 +11,11 @@ So here, on my github I will describe common and most interesting project that I
 
 Couple examples: <br/>
 https://fit-fit.vercel.app/
+
 https://swap-money.vercel.app/
+
 https://flowers-slider.vercel.app/
+
 https://react-app-google-auth.vercel.app/
 ___
 
