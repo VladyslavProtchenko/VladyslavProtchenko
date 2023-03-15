@@ -66,7 +66,7 @@ redux: https://github.com/VladyslavProtchenko/REDUX-WARS</p><br/>
 
 <h3>Render posts</h3>
 <p>Page with rendered posts in clear javascript, using just JS :) <br/>https://github.com/VladyslavProtchenko/RENDER-POSTS</p>
-_____________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________
 
 
 <h1 style="display: flex;"><code>Front-end!</code><img alt="Java" width="20px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></h1>
@@ -87,7 +87,7 @@ ________________________________________________________________________________
 
 <h3>HTML,CSS</h3>
 <p>Standart skills about this, query breackpoints, validations, animations, adaptive layouts,understanding of HTML semantic.</p>
-________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________
 
 
 <h3 style="display: flex;"><code>Back-end!</code><img alt="Java" width="20px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></h3></summary>
@@ -107,7 +107,8 @@ ________________________________________________________________________________
 
 <h3>MongoDB, MySql</h3>
 <p>Some practice with structure and projecting collections</p>
-_________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________
+
 
 Thanks for your time and be happy! 😉
 </br>see you 🙌
