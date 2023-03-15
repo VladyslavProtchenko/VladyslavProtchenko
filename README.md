@@ -56,7 +56,7 @@ redux: https://github.com/VladyslavProtchenko/REDUX-WARS</p>
 
 
 <h3>MERN</h3>
-<code><h4>Frontend: React-redux, Backend:Node, express, mongoDB </h4></code>
+<h4><code>Frontend: React-redux, Backend:Node, express, mongoDB </code></h4>
 <p>MERN, Mongo-Express-React-Node, RTQ stack, I created server on Express with node, hashData, JWT access, refresh tokens, middlewares. Frontend simple pages about authentification.
 <br/>https://github.com/VladyslavProtchenko/React-JS-Node-JS-Authentification</p>
 
