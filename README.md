@@ -1,5 +1,5 @@
 # 👀 Hi, I'm Vladyslav 👋
-**`React engineer`**
+**`React/Node engineer`**
 
 Senior engineer in trainee body 🤫 -- 🔭 I’m currently working on it</br><br/>
 
@@ -11,83 +11,28 @@ So here, on my github I will describe common and most interesting project that I
 
 Couple examples: <br/>
 https://fit-fit.vercel.app/
-https://swap-money.vercel.app/<br/>
-https://flowers-slider.vercel.app/<br/>
+https://swap-money.vercel.app/
+https://flowers-slider.vercel.app/
 https://react-app-google-auth.vercel.app/
-<br/>
-<hr/>
+___
 
 ### 🛠 Languages and Tools
 
+<h1 style="display: flex;"><code>Projects!</code><img alt="Java" width="30px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></h1></summary>
 
+ <p>I had strong practice with mentor and couple interesting test tasks from different companies 🦾!</p>
 
-<h3 style="display: flex;"><code>Front-end!</code><img alt="Java" width="20px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></h3></summary>
- 
-<p>Main set React-Redux</br>Fetching, and render data, create apps.</br>Had practice with:</br>
-<code>react-redux, styled-components, TailWind, socket.io</code></p></br>
+ <h3>React app fitnessGym</h3>
+<code>React/redux-toolkit tailwind styles</code>
+<p>React app with custom sliders, validation form, adaptive layout: <br/> 
+https://fit-fit.vercel.app/
+</p>
 
-
-
-<h3>React</h3>
-<p>React-router, reactHooks, Context, LocalStorage, tailwind styles app: todos, posts, async fetches</br>Pagination </br>Authentication</br>validation forms</br>animations</p></br>
-
-
-
-<h3>Redux</h3>
-<p>Some good experience work with Redux, Redux/toolkit:</br>thunk </br>RTKquery</br>Redux-saga</p></br>
-
-
-
-<h3>HTML,CSS</h3>
-<p>Standart skills about this, query breackpoints, validations, animations, adaptive layouts,understanding of HTML semantic.</p></br>
-
-
-
-
-
-
-<h3 style="display: flex;"><code>Back-end!</code><img alt="Java" width="20px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></h3></summary>
- 
- 
-<p>I have experience in creating Rest-API and full CRUD functionality with Node, MongoDB, some knowlenge about mySQL</br></p>
-
-
-
-<h3>JavaScript</h3>
-<code>Good experience work with collections, arrays/object methods.</code></br>
-
-
-
-<h3>NodeJs</h3>
-<code>Express, mongoose, bcrypt,jwt-tokens, cors, dotenv and another. </code></br>
-
-
-
-<h3>MongoDB</h3>
-<p>Some practice with it, and with node-mongoose</p>
-
-
-
-<h3>MySql </h3>
-<p>Some practice with structure and proecting collections</p></br>
-
-
-
-
-
-
-
-
-<h3 style="display: flex;"><code>Projects!</code><img alt="Java" width="20px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></h3></summary>
-
- <p>I had strong practice with mentor and couple interesting test tasks from different companies 🦾!</p><br/><br/><br/>
-
- 
 
 <h3>React app google-auth(firebase)</h3>
 <code>React/redux-toolkit app with google/firebase auth</code>
 <p>Use react, redux-toolkit stack, outentication with firebase with google and mail. Tailwind styling.
-<br/>https://github.com/VladyslavProtchenko/OnlineShop-google-auth</p></br>
+<br/>https://github.com/VladyslavProtchenko/OnlineShop-google-auth</p>
 
 
 
@@ -95,40 +40,72 @@ https://react-app-google-auth.vercel.app/
 <h3>React online-shop Material-UI</h3>
 <code>React/redux-toolkit app, Material-UI style</code>
 <p>Use react, redux-toolkit query stack, Paggination/filters on Material-UI and some Tailwind styles.
-<br/>https://github.com/VladyslavProtchenko/OnlineShop-google-auth</p></br>
+<br/>https://github.com/VladyslavProtchenko/OnlineShop-google-auth</p>
 
 
 
 
 <h3>Star Wars app</h3>
 <code>React-redux app about star wars movie</code>
-<p>Use react, RTQ stack, work with async queries, with json data, render pages. Tailwind styling.<br/><br/> 
-without-redux:
-<br/>https://github.com/VladyslavProtchenko/star-wars<br/>
-redux:
-<br/>https://github.com/VladyslavProtchenko/REDUX-WARS</p></br>
+<p>Use react, RTQ stack, work with async queries, with json data, render pages. Tailwind styling.<br/>
+without-redux: https://github.com/VladyslavProtchenko/star-wars<br/>
+redux: https://github.com/VladyslavProtchenko/REDUX-WARS</p>
 
 
 
 
 <h3>MERN</h3>
 <code>Frontend: React-redux, Backend:Node, express, mongoDB </code>
-<p>MERN, Mongo-Express-React-Node, RTQ stack, I created server on Express with node, hashData, JWT access, refresh tokens, middlewares. Frontend simple pages about authentification.<br/>
+<p>MERN, Mongo-Express-React-Node, RTQ stack, I created server on Express with node, hashData, JWT access, refresh tokens, middlewares. Frontend simple pages about authentification.
 <br/>https://github.com/VladyslavProtchenko/React-JS-Node-JS-Authentification</p></br>
 
 
 
 
 <h3>Render posts</h3>
-<p>Page with rendered posts in clear javascript, using just JS :)</p>
-<br/>https://github.com/VladyslavProtchenko/RENDER-POSTS</br></br>
-
-<br />
+<p>Page with rendered posts in clear javascript, using just JS :) <br/>https://github.com/VladyslavProtchenko/RENDER-POSTS</p>
+_______________________________________________________________________________
 
 
+<h1 style="display: flex;"><code>Front-end!</code><img alt="Java" width="20px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></h1>
+ 
+<p>Main set: React/Redux, NodeJS</br>Fetching, and render data, create apps.</br>Had practice with:
+<code>react/redux, styled-components, tailwind, socket.io</code></p>
 
 
 
+<h3>React</h3>
+<p>React-router, reactHooks, Context, LocalStorage, tailwind styles app: <br/>Material UI, Async:Thunk, fetch, axios,<br/> pagination, authentication, validation forms, animations</p>
+
+
+
+<h3>Redux</h3>
+<p>Some good experience work with Redux, Redux/toolkit:</br>Thunk, RTK-query, Redux-saga</p>
+
+
+<h3>HTML,CSS</h3>
+<p>Standart skills about this, query breackpoints, validations, animations, adaptive layouts,understanding of HTML semantic.</p>
+______________________________________________________________________________
+
+
+<h3 style="display: flex;"><code>Back-end!</code><img alt="Java" width="20px" style="padding-right:10px; padding-left:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></h3></summary>
+ 
+ 
+<p>I have experience in creating Rest-API and full CRUD functionality with Node, MongoDB, some knowlenge about mySQL</p>
+
+
+
+<h3>JavaScript</h3>
+<code>Good experience work with collections, arrays/object methods.</code>
+
+
+
+<h3>NodeJs</h3>
+<code>Express, mongoose, bcrypt,jwt-tokens, cors, dotenv and another. </code>
+
+<h3>MongoDB, MySql</h3>
+<p>Some practice with structure and projecting collections</p>
+______________________________________________________________________________
 
 Thanks for your time and be happy! 😉
 </br>see you 🙌
