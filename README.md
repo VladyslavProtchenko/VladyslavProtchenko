@@ -23,15 +23,18 @@ ___
 
  <p>I had strong practice with mentor and couple interesting test tasks from different companies 🦾!</p>
 
+
  <h3>React app fitnessGym</h3>
-<code><h4> React/redux-toolkit tailwind styles</h4></code>
+<h4><code>React/redux-toolkit tailwind styles</code></h4>
+
 <p>React app with custom sliders, validation form, adaptive layout: <br/> 
 https://fit-fit.vercel.app/
 </p>
 
 
 <h3>React app google-auth(firebase)</h3>
-<code><h4>React/redux-toolkit app with google/firebase auth</h4></code>
+<h4><code>React/redux-toolkit app with google/firebase auth</code></h4>
+
 <p>Use react, redux-toolkit stack, outentication with firebase with google and mail. Tailwind styling.
 <br/>https://github.com/VladyslavProtchenko/OnlineShop-google-auth</p>
 
@@ -39,7 +42,8 @@ https://fit-fit.vercel.app/
 
 
 <h3>React online-shop Material-UI</h3>
-<code><h4>React/redux-toolkit app, Material-UI style</h4></code>
+<h4><code>React/redux-toolkit app, Material-UI style</code></h4>
+
 <p>Use react, redux-toolkit query stack, Paggination/filters on Material-UI and some Tailwind styles.
 <br/>https://github.com/VladyslavProtchenko/OnlineShop-google-auth</p>
 
@@ -47,7 +51,7 @@ https://fit-fit.vercel.app/
 
 
 <h3>Star Wars app</h3>
-<code><h4>React-redux app about star wars movie</h4></code>
+<h4><code>React-redux app about star wars movie</code></h4>
 <p>Use react, RTQ stack, work with async queries, with json data, render pages. Tailwind styling.<br/>
 without-redux: https://github.com/VladyslavProtchenko/star-wars<br/>
 redux: https://github.com/VladyslavProtchenko/REDUX-WARS</p>
