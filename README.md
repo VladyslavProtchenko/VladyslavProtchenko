@@ -10,13 +10,10 @@ Senior engineer in trainee body 🤫 -- 🔭 I’m currently working on it</br><
 So here, on my github I will describe common and most interesting project that I created already. So you can watch it, and I hope it will helpful for you!</br> It is only start and I already can find answer to any questions on my own 🦾 <br/>
 
 Couple examples: <br/>
-https://fit-fit.vercel.app/
-
-https://swap-money.vercel.app/
-
-https://flowers-slider.vercel.app/
-
-https://react-app-google-auth.vercel.app/
+https://fit-fit.vercel.app/ 
+https://swap-money.vercel.app/ 
+https://flowers-slider.vercel.app/ 
+https://react-app-google-auth.vercel.app/ 
 ___
 
 ### 🛠 Languages and Tools
@@ -60,7 +57,7 @@ redux: https://github.com/VladyslavProtchenko/REDUX-WARS</p>
 <h3>MERN</h3>
 <code>Frontend: React-redux, Backend:Node, express, mongoDB </code>
 <p>MERN, Mongo-Express-React-Node, RTQ stack, I created server on Express with node, hashData, JWT access, refresh tokens, middlewares. Frontend simple pages about authentification.
-<br/>https://github.com/VladyslavProtchenko/React-JS-Node-JS-Authentification</p></br>
+<br/>https://github.com/VladyslavProtchenko/React-JS-Node-JS-Authentification</p>
 
 
 
