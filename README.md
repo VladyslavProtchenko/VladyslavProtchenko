@@ -1,20 +1,19 @@
 # 👀 Hi, I'm Vladyslav 👋
 **`React/Node engineer`**
 
-Senior engineer in trainee body 🤫 -- 🔭 I’m currently working on it</br><br/>
+I know a secret</br><br/>
 
 
-##### I don't ask stupid questions, only smart questions 💡
+##### If you can't find solution at first five minutes you're bad engineed  💡
 
 
 So here, on my github I will describe common and most interesting project that I created already. So you can watch it, and I hope it will helpful for you!</br> It is only start and I already can find answer to any questions on my own 🦾 <br/>
 <br/>
 
 Couple examples: <br/>
-https://fit-fit.vercel.app/ <br/>
-https://swap-money.vercel.app/ <br/>
+https://ordersmadesimple.com/ also android and ios app <br/>
+https://lp-crm.biz/ <br/>
 https://flowers-slider.vercel.app/ <br/>
-https://react-app-google-auth.vercel.app/ 
 ___
 
 ### 🛠 Languages and Tools
