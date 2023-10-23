@@ -7,7 +7,7 @@ I know a secret</br><br/>
 ##### If you can't find solution at first five minutes you're bad engineed  💡
 
 
-So here, on my github and most interesting project that I created already. So you can watch it, and I hope it will helpful for you!</br> I can solve any your problem 🦾 <br/>
+So here,  my github and most interesting project that I have created already. So you can watch it and I hope it will be helpful for you!</br> I can solve any your problem 🦾 <br/>
 <br/>
 
 Couple examples: <br/>
